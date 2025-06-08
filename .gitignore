@@ -1,6 +1,4 @@
-backend/node-modules
-backend/dist
-frontend/node_modules
-frontend/dist
 # Ignore node_modules in both backend and frontend
 node_modules/
+# Ignore build directories
+build/
